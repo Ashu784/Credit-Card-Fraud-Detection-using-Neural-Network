@@ -1,8 +1,8 @@
 # Credit-Card-Fraud-Detection-using-Neural-Network
   - Dataset : https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
     
-  - Google Collab Link : https://colab.research.google.com/drive/1KWtVd_4CJnVs4Opn08l-3FzzzcoVqYPc?usp=sharing
-
+  - Google Collab Link : https://colab.research.google.com/drive/1mayFYAeP1G3_fsPcGKk-P1UBUHZ7toMQ?usp=sharing
+    
   - Github link : https://github.com/Ashu784/Credit-Card-Fraud-Detection-using-Neural-Network
 
   - Methodology: Artificial Neural Network
